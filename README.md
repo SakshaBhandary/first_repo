@@ -1,6 +1,6 @@
 # First_Repository
 
-This is my first repository, where I learnt to create repositories and branches.
+This is my first repository, where I learnt to create repositories.
 
 - Hi, I’m @SakshaBhandary
 - I’m interested in Internet of Things and Product Development with Creative and Responsive Technology.
